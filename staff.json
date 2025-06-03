@@ -6,8 +6,8 @@
       "avatar": "/placeholder.svg?height=200&width=200",
       "bio": "Passionate about providing free hosting solutions to the Discord community. Leading Zluqe with a focus on reliability and user experience.",
       "links": {
-        "website": "https://cloudexis.com",
-        "github": "https://github.com/sydneymorrison",
+        "website": "https://syd.gg",
+        "github": "https://github.com/sydneymae",
         "discord": "https://discord.com/users/sydneymorrison"
       }
     },
@@ -19,26 +19,6 @@
       "links": {
         "github": "https://github.com/person0z",
         "discord": "https://discord.com/users/person0z"
-      }
-    },
-    {
-      "name": "Alex Johnson",
-      "role": "Community Manager",
-      "avatar": "/placeholder.svg?height=200&width=200",
-      "bio": "Helping users get the most out of Zluqe and building our amazing community.",
-      "links": {
-        "twitter": "https://twitter.com/alexjohnson",
-        "discord": "https://discord.com/users/alexjohnson"
-      }
-    },
-    {
-      "name": "Sarah Chen",
-      "role": "Support Specialist",
-      "avatar": "/placeholder.svg?height=200&width=200",
-      "bio": "Providing technical support and helping users solve their hosting challenges.",
-      "links": {
-        "github": "https://github.com/sarahchen",
-        "discord": "https://discord.com/users/sarahchen"
       }
     }
   ]
